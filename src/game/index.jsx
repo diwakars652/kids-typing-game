@@ -138,7 +138,7 @@ class Game extends React.Component {
             />
         }
         <p className="diwa">
-          created by <a href="https://linkedin.com/in/diwakars652" target="_blank" rel="noopener noreferrer">@diwa</a> – my best time: 11.39s!
+          created by <a href="https://linkedin.com/in/diwakars652" target="_blank" rel="noopener noreferrer">@diwa</a> – my best time: 7.12s!
         </p>
       </section>
     )
