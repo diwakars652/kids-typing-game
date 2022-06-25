@@ -7,7 +7,7 @@ class Game extends React.Component {
     super(props);
     this.state = {
       input: '',
-      letters: 'abcdefghijklmnopqrstuvwxyz',
+      letters: 'abcdefghijklmnopqrst',
       gameStarted: false,
       runningTime: 0,
       startTime: null,
